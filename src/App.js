@@ -1,6 +1,6 @@
 import React from "react";
-import { Card, CardContent } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
+import { Card, CardContent } from "./components/ui/card";
+import { Button } from "./components/ui/button";
 import { Mail, Github, Linkedin } from "lucide-react";
 
 export default function ResearchPortfolio() {
@@ -10,9 +10,9 @@ export default function ResearchPortfolio() {
         <h1 className="text-4xl font-bold mb-2">Pramod Prakash</h1>
         <p className="text-xl text-gray-600">PhD Student @ Indian Institute Of Science Education And Research</p>
         <div className="mt-4 flex justify-center space-x-4">
-          <a href="mailto:your.email@example.com"><Mail /></a>
-          <a href="https://github.com/yourgithub"><Github /></a>
-          <a href="https://linkedin.com/in/yourlinkedin"><Linkedin /></a>
+          <a href="prmoo267@gmail.com"><Mail /></a>
+          <a href="https://https://github.com/CHERRY-70"><Github /></a>
+          <a href="https://https://www.linkedin.com/in/prmoo7/"><Linkedin /></a>
         </div>
       </header>
 
@@ -52,8 +52,8 @@ export default function ResearchPortfolio() {
           <CardContent className="p-4">
             <h2 className="text-2xl font-semibold mb-2">Publications & Preprints</h2>
             <ul className="list-disc list-inside text-gray-700">
-              <li>2024 - Fungal-Bacterial Interactions in M9 Media (bioRxiv)</li>
-              <li>2025 - Termite Gut Microbiota via Nanopore (in prep)</li>
+              <li>2024 - F(ccc)</li>
+              <li>2025 - T(in prep)</li>
             </ul>
           </CardContent>
         </Card>
